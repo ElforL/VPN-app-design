@@ -3,7 +3,7 @@
 a template for a VPN app.  
 NOT a working app
 
-recreation of [Mohammad Reza Farahzad's design](https://dribbble.com/shots/14028358-VPN-App-Ui-Design?utm_source=Clipboard_Shot&utm_campaign=mrfarahzad&utm_content=VPN%20App%20Ui%20Design&utm_medium=Social_Share)
+recreation of [Mohammad Reza Farahzad's design](https://dribbble.com/mrfarahzad)
 
 ## resources
 - [Mohammad Reza Farahzad's design](https://dribbble.com/shots/14028358-VPN-App-Ui-Design?utm_source=Clipboard_Shot&utm_campaign=mrfarahzad&utm_content=VPN%20App%20Ui%20Design&utm_medium=Social_Share)
